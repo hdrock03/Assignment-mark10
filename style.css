@@ -54,7 +54,7 @@ body {
 #check-button {
   background: var(--primary-color);
   border: none;
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding: 0.7rem 1rem;
   border-radius: 0.5rem;
   font-size: large;
@@ -70,7 +70,6 @@ body {
   margin: 1rem 0 0;
 }
 
-/* Table */
 .change-table {
   width: 50%;
   text-align: justify;
